@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
 title: About me
-permalink: /about
+permalink: /about/index.html
 ---
 \[COMING SOON]
