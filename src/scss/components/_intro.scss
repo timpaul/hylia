@@ -1,5 +1,6 @@
 .intro {
   background: var(--color-theme-highlight-block);
+  color: var(--color-theme-feature-text);
 
   &__summary {
     --flow-space: #{get-size(500)};
@@ -16,7 +17,6 @@
 
   &__heading {
     max-width: 40ex;
-    color: var(--color-theme-feature-text);
 
     &--compact {
       max-width: 20ex;
