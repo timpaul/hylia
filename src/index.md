@@ -1,10 +1,10 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: 'I’m a designer, based in London.'
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself.
+I help organisations design at scale and efficiently deliver usable, accessible, inclusive services.
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/andybelldesign/hylia&stack=cms)
+I’m currently Head of Interaction Design at the Government Digital Service in the UK, where I lead the team behind the [GOV.UK Design System](https://design-system.service.gov.uk/).
