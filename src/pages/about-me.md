@@ -21,5 +21,5 @@ Most recently I built and now lead the team behind the [GOV.UK Design System](ht
 
 ## Transport for London
 
-Before joining GDS, I led the digital design team at Transport for London. We were responsible for the design of tfl.gov.uk, including online Tube and bus maps, live travel information and TfL's Journey Planner.
+Before joining GDS I led the digital design team at Transport for London. We were responsible for the design of [tfl.gov.uk](https://tfl.gov.uk), including online Tube and bus maps, live travel information, planned engineering works and TfL's Journey Planner.
 
