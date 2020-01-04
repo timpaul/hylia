@@ -3,7 +3,7 @@ layout: layouts/page.njk
 title: About me
 permalink: /about/index.html
 ---
-I’m a London based interaction designer. I've been helping organisations design at scale and deliver usable, accessible, inclusive services for 20 years. 
+I’m a London based interaction designer. I've been helping public sector organisations design at scale and deliver usable, accessible, inclusive services for 20 years. 
 
 I’m currently the Head of Interaction Design at the Government Digital Service in the UK, where I lead the team behind the [GOV.UK Design System](https://design-system.service.gov.uk/).
 
